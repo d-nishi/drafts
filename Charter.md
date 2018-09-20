@@ -17,7 +17,7 @@ Link to SIG section in [sigs.yaml](https://github.com/kubernetes/community/blob/
 #### Code, Binaries and Services
 
 Kubernetes integrations specific to AWS including:
-- integrations, interfaces, libraries and extension points for all AWS services such as IAM, storage, nnetworking, loadbalancers, registry, security, monitoring/logging at the instance or container level
+- integrations, interfaces, libraries and extension points for all AWS services such as IAM, storage, networking, loadbalancers, registry, security, monitoring/logging at the instance or container level
 - clis for Kubernetes APIs to work with AWS services including Amazon EKS
 - prow, testgrid, perf dashboard integrations to expand and maintain testing and scale-testing
 - support users on their issues and feature requests
