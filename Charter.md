@@ -51,7 +51,7 @@ and opts-in to updates and modifications to [sig-governance].
 
 ### Subproject Creation
 
-SIG Auth delegates subproject approval to Technical Leads. See [Subproject creation - Option 1].
+SIG AWS delegates subproject approval to Technical Leads. See [Subproject creation - Option 1].
 
 [sig-governance]: https://github.com/kubernetes/community/blob/master/committee-steering/governance/sig-governance.md
 [sig-subprojects]: https://github.com/kubernetes/community/blob/master/sig-YOURSIG/README.md#subprojects
